@@ -22,7 +22,7 @@ This is a simple Android Project to listen Myanmar pronunciation when each Engli
 </ul>
 
 # Credit
-https://classroom.udacity.com
+https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
 
 # Screeenshots
 
