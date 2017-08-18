@@ -1,7 +1,8 @@
 # Myanmarese - Myanmar pronunciation that equals to English vocabularies and sentences
 This is a simple Android Project to listen Myanmar pronunciation when each English vocabulary and sentence are clicked.
 
-# Library
+<h3>Library</h3>
+#
 <ul>
   <li>Android Support Library (cardview, appcompat, design, mediarouter)</li>
   <li>
