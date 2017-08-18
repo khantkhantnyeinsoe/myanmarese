@@ -2,8 +2,7 @@
 This is a simple Android Project to listen Myanmar pronunciation when each English vocabulary and sentence are clicked.
 
 <h3>Library</h3>
-#
-<ul>
+# <ul>
   <li>Android Support Library (cardview, appcompat, design, mediarouter)</li>
   <li>
     <a target="_blank" href="https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html">
