@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.khant.myanmarese">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/myanmarese_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NumbersActivity"
+            android:label="@string/category_numbers" />
+        <activity
+            android:name=".ColorsActivity"
+            android:label="@string/category_colors" />
+        <activity
+            android:name=".TimeAndDateActivity"
+            android:label="@string/category_timeanddate" />
+        <activity
+            android:name=".BodyPartsActivity"
+            android:label="@string/category_bodyparts" />
+        <activity
+            android:name=".EatingOutActivity"
+            android:label="@string/category_eatingout" />
+        <activity
+            android:name=".FruitActivity"
+            android:label="@string/category_fruits" />
+        <activity
+            android:name=".VegetableActivity"
+            android:label="@string/category_vegetables" />
+        <activity
+            android:name=".FamilyMemberActivity"
+            android:label="@string/category_family" />
+        <activity
+            android:name=".PhraseActivity"
+            android:label="@string/category_phrases" />
+
+        <activity android:name=".GreetingActivity"
+            android:label="Greetings"/>
+        <activity android:name=".ConversationActivity"
+            android:label="General Conversation"/>
+        <activity android:name=".DirectionActivity"
+            android:label="Driections"/>
+        <activity android:name=".PlaceActivity"
+            android:label="Places"></activity>
+    </application>
+
+</manifest>

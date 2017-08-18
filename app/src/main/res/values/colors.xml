@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--color codes-->
+    <color name="dark_black">#210909</color>
+    <color name="light_black">#3D3434</color>
+    <color name="white">#FFFFFF</color>
+    <color name="category_number">#7B0715</color>
+    <color name="category_color">#450F16</color>
+    <color name="category_timeanddate">#7C353D</color>
+    <color name="category_bodypart">#744F13</color>
+    <color name="category_eatingout">#D3AA68</color>
+    <color name="category_fruit">#769952</color>
+    <color name="category_vegetable">#4B761B</color>
+    <color name="category_familymember">#A848BB</color>
+    <color name="category_phrase">#5A85B8</color>
+    <color name="light_yellow">#F6ECDE</color>
+    <color name="greeting_cat">#F1C40F</color>
+    <color name="conversation_cat">#2980B9</color>
+    <color name="direction_cat">#E74C3C</color>
+    <color name="place_cat">#229954</color>
+</resources>

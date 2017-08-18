@@ -1,0 +1,622 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Myanmarese</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+    <string name="category_timeanddate">Time and Day</string>
+    <string name="category_bodyparts">Body Parts</string>
+    <string name="category_eatingout">Eating Out</string>
+    <string name="category_fruits">Fruits</string>
+    <string name="category_vegetables">Vegetables</string>
+
+    <!-- Number Activity -->
+    <string name="number_one_myanmar">တစ်</string>
+    <string name="number_one_default">one</string>
+
+    <string name="number_two_myanmar">နှစ်</string>
+    <string name="number_two_default">two</string>
+
+    <string name="number_three_myanmar">သုံး</string>
+    <string name="number_three_default">three</string>
+
+    <string name="number_four_myanmar">လေး</string>
+    <string name="number_four_default">four</string>
+
+    <string name="number_five_myanmar">ငါး</string>
+    <string name="number_five_default">five</string>
+
+    <string name="number_six_myanmar">ခြောက်</string>
+    <string name="number_six_default">six</string>
+
+    <string name="number_seven_myanmar">ခုနစ်</string>
+    <string name="number_seven_default">seven</string>
+
+    <string name="number_eight_myanmar">ရှစ်</string>
+    <string name="number_eight_default">eight</string>
+
+    <string name="number_nine_myanmar">ကိုး</string>
+    <string name="number_nine_default">nine</string>
+
+    <string name="number_ten_myanmar">တစ်ဆယ်</string>
+    <string name="number_ten_default">ten</string>
+
+    <!--/number activity-->
+
+    <!--color activity-->
+    <string name="color_red_myanmar">အနီ</string>
+    <string name="color_red_default">red</string>
+
+    <string name="color_mustard_yellow_myanmar">အဝါနု</string>
+    <string name="color_mustard_yellow_default">mustard yellow</string>
+
+    <string name="color_dusty_yellow_myanmar">အဝါရင့်</string>
+    <string name="color_dusty_yellow_default">dusty yellow</string>
+
+    <string name="color_green_myanmar">အစိမ်း</string>
+    <string name="color_green_default">green</string>
+
+    <string name="color_brown_myanmar">အညို</string>
+    <string name="color_brown_default">brown</string>
+
+    <string name="color_gray_myanmar">မီးခိုး</string>
+    <string name="color_gray_default">gray</string>
+
+    <string name="color_black_myanmar">အနက်</string>
+    <string name="color_black_default">black</string>
+
+    <string name="color_white_myanmar">အဖြူ</string>
+    <string name="color_white_default">white</string>
+
+    <!--/color activity-->
+
+    <!--family activity-->
+    <string name="family_father_myanmar">အဖေ</string>
+    <string name="family_father_default">father</string>
+
+    <string name="family_mother_myanmar">အမေ</string>
+    <string name="family_mother_default">mother</string>
+
+    <string name="family_son_myanmar">သား</string>
+    <string name="family_son_default">son</string>
+
+    <string name="family_daughter_myanmar">သမီး</string>
+    <string name="family_daughter_default">daughter</string>
+
+    <string name="family_older_brother_myanmar">အစ်ကို</string>
+    <string name="family_older_brother_default">older brother</string>
+
+    <string name="family_younger_brother_myanmar">ညီ / မောင်</string>
+    <string name="family_younger_brother_default">younger brother</string>
+
+    <string name="family_older_sister_myanmar">အစ်မ</string>
+    <string name="family_older_sister_default">older sister</string>
+
+    <string name="family_younger_sister_myanmar">ညီမ</string>
+    <string name="family_younger_sister_default">younger sister</string>
+
+    <string name="family_grandmother_myanmar">အဘွား</string>
+    <string name="family_grandmother_default">grandmother</string>
+
+    <string name="family_grandfather_myanmar">အဘိုး</string>
+    <string name="family_grandfather_default">grandfather</string>
+
+    <string name="family_uncle_myanmar">ဦးလေး</string>
+    <string name="family_uncle_default">uncle</string>
+
+    <string name="family_aunty_myanmar">အဒေါ်</string>
+    <string name="family_aunty_default">aunty</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--/family activity-->
+
+
+    <!--Date fragment-->
+    <string name="sunday_myanmar">တနင်္ဂနွေ</string>
+    <string name="sunday_default">Sunday</string>
+
+    <string name="monday_myanmar">တနင်္လာ</string>
+    <string name="monday_default">Monday</string>
+
+    <string name="tuesday_myanmar">အင်္ဂါ</string>
+    <string name="tuesday_default">Tuesday</string>
+
+    <string name="wednesday_myanmar">ဗုဒ္ဓဟူး</string>
+    <string name="wednesday_default">Wednesday</string>
+
+    <string name="thursday_myanmar">ကြာသပတေး</string>
+    <string name="thursday_default">Thursday</string>
+
+    <string name="friday_myanmar">သောကြာ</string>
+    <string name="friday_default">Friday</string>
+
+    <string name="sat_myanmar">စနေ</string>
+    <string name="sat_default">Saturday</string>
+
+
+    <!--/Date fragment-->
+
+
+    <!--phrase greeting-->
+    <string name="greet_hello_myanmar">မင်္ဂလာပါ</string>
+    <string name="greet_hello_english">Hello</string>
+    <string name="greet_morning_myanmar">ကောင်းသောနံနက်ခင်းပါ</string>
+    <string name="greet_morning_english">Good Morning</string>
+    <string name="greet_afternoon_myanmar">ကောင်းသောနေ့လယ်ခင်းပါ</string>
+    <string name="greet_afternoon_english">Good Afternoon</string>
+    <string name="greet_night_myanmar">ကောင်းသောညပါ</string>
+    <string name="greet_night_english">Good Night</string>
+    <string name="greet_evening_myanmar">ကောင်းသောညနေခင်းပါ</string>
+    <string name="greet_evening_english">Good Evening</string>
+    <string name="greet_1_myanmar">နေကောင်းလား?</string>
+    <string name="greet_1_english">How are you?</string>
+    <string name="greet_2_myanmar">နေကောင်းပါတယ်။ ကျေးဇူးတင်ပါတယ်။</string>
+    <string name="greet_2_english">I\'m fine,thanks</string>
+    <string name="greet_3_myanmar">သိပ်နေမကောင်းဘူး။ ကျေးဇူးတင်ပါတယ်။</string>
+    <string name="greet_3_english">I\'m not well,thanks</string>
+    <string name="greet_4_myanmar">မင်းနာမည်ဘယ်လိုခေါ်ပါသလဲ?</string>
+    <string name="greet_4_english">What\'s your name?</string>
+    <string name="greet_5_myanmar">ကျွန်ုပ် နာမည်ကတော့(John)ဖြစ်ပါတယ်။</string>
+    <string name="greet_5_english">My name is (John).</string>
+    <string name="greet_6_myanmar">နောက်မှတွေ့ကြမယ်။</string>
+    <string name="greet_6_english">See you later</string>
+    <string name="greet_7_myanmar">တာ့တာ</string>
+    <string name="greet_7_english">Goodbye</string>
+    <string name="greet_8_myanmar">တွေ့ရတာဝမ်းသာပါတယ်။</string>
+    <string name="greet_8_english">Nice to meet you</string>
+    <string name="greet_9_myanmar">ကံကောင်းပါစေ</string>
+    <string name="greet_9_english">Good luck</string>
+    <string name="greet_10_myanmar">အစစအရာရာ ဂရုစိုက်ပါ</string>
+    <string name="greet_10_english">Take care</string>
+    <string name="greet_11_myanmar">မတွေ့တာတောင်ကြာပြီနော်</string>
+    <string name="greet_11_english">It\'s been a while</string>
+    <string name="greet_12_myanmar">မင်း Englishစကားပြောတတ်လား?</string>
+    <string name="greet_12_english">Can you speak English?</string>
+    <string name="greet_13_myanmar">ကျွန်ုပ်ကတော့(ထိုင်း) နိုင်ငံကလာခဲ့တာပါ။</string>
+    <string name="greet_13_english">I\'m from(Thailand).</string>
+    <string name="greet_14_myanmar">မင်းအသက် ဘယ်လောက်ရှိပြီလဲ?</string>
+    <string name="greet_14_english">How old are you?</string>
+    <string name="greet_15_myanmar">ကျွန်ုပ်အသက် (၂၀) နှစ်ရှိပါပြီ။</string>
+    <string name="greet_15_english">I\'m (20) years old</string>
+    <string name="greet_16_myanmar">ကျေးဇူးတင်ပါတယ်။</string>
+    <string name="greet_16_english">Thank you</string>
+    <string name="greet_17_myanmar">ငါမင်းကိုချစ်တယ်</string>
+    <string name="greet_17_english">I love you</string>
+    <string name="greet_18_myanmar">မြန်မြန်ပြန်နေကောင်းပါစေ</string>
+    <string name="greet_18_english">Get well soon</string>
+    <string name="greet_19_myanmar">မွေးနေ့မှာပျော်ရွှင်ပါစေ</string>
+    <string name="greet_19_english">Happy Birthday</string>
+    <!--general conversation-->
+    <string name="con_1_myanmar">စိတ်မရှိပါနဲ့။</string>
+    <string name="con_1_english">Sorry</string>
+    <string name="con_2_myanmar">တဆိတ်လောက်</string>
+    <string name="con_2_english">Excuse me</string>
+    <string name="con_3_myanmar">ကျေးဇူးအများကြီးတင်ပါတယ်။</string>
+    <string name="con_3_english">Thank you very much.(Thanks a lot)</string>
+    <string name="con_4_myanmar">မြန်မာစကား မပြောတတ်ပါဘူး။</string>
+    <string name="con_4_english"> I cannot speak Myanmar</string>
+    <string name="con_5_myanmar">မင်းနားလည်လား?</string>
+    <string name="con_5_english">Do you understand?</string>
+    <string name="con_6_myanmar">ဓာတ်ပုံရိုက်လို့ရမလား?</string>
+    <string name="con_6_english">May I take a photograph?</string>
+    <string name="con_7_myanmar">ဖုန်းသုံးလို့ရမလား?</string>
+    <string name="con_7_english">May I use the telephone?</string>
+    <string name="con_8_english">Where is the restroom?</string>
+    <string name="con_8_myanmar">အိမ်သာဘယ်မှာရှိလဲ?</string>
+    <string name="con_9_english">How much?</string>
+    <string name="con_9_myanmar">ဘယ်လောက်လဲ?</string>
+    <string name="con_10_english">What\'s that?</string>
+    <string name="con_10_myanmar">ဒီဟာဘာလဲ?</string>
+    <string name="con_11_english">Very expensive</string>
+    <string name="con_11_myanmar">ဈေးများတယ်</string>
+    <string name="con_12_myanmar">ဟုတ်ကဲ့ဗျ</string>
+    <string name="con_12_english">Yes(Male)</string>
+    <string name="con_13_myanmar">ဟုတ်ကဲ့ရှင့်</string>
+    <string name="con_13_english">Yes(Female)</string>
+    <string name="con_14_myanmar">ဟင့်အင်း</string>
+    <string name="con_14_english">No</string>
+    <string name="con_15_myanmar">တကယ်လား?</string>
+    <string name="con_15_english">Really?</string>
+    <string name="con_16_myanmar">မဖြစ်နိုင်ပါဘူး။</string>
+    <string name="con_16_english">It\'s impossible.</string>
+    <string name="con_17_myanmar">ဖြစ်နိုင်ပါတယ်။</string>
+    <string name="con_17_english">Possibly.</string>
+    <string name="con_18_myanmar">ကူညီပါရစေ။</string>
+    <string name="con_18_english">Can I help you?</string>
+    <string name="con_19_myanmar">လှလိုက်တာ</string>
+    <string name="con_19_english">Beautiful</string>
+    <string name="con_20_myanmar">... ကိုလိုချင်တယ်။</string>
+    <string name="con_20_english">I want...</string>
+    <string name="con_21_myanmar">ဒီနေရာမှာ English စကားပြောတတ်တဲ့သူရှိလား?်</string>
+    <string name="con_21_english">Is there someone here who speaks English?</string>
+    <string name="con_22_myanmar">ဘယ်နှစ်နာရီရှိပြီလဲ?</string>
+    <string name="con_22_english">What time is it?</string>
+    <string name="con_23_myanmar">ရပါတယ်</string>
+    <string name="con_23_english">No problem</string>
+    <string name="con_24_myanmar">ကိစ္စမရှိပါဘူး။</string>
+    <string name="con_24_english">I don\'t mind. its alright.</string>
+    <string name="con_25_myanmar">သွားခွင့်ပြုပါဦး။</string>
+    <string name="con_25_english">May I go now?</string>
+    <string name="con_26_myanmar">ငွေရှင်းမယ်</string>
+    <string name="con_26_english">The bill, please</string>
+    <string name="con_27_myanmar">အစပ်မစားဘူး။</string>
+    <string name="con_27_english">No spicy</string>
+    <string name="con_28_myanmar">ဘယ်သူလဲ?</string>
+    <string name="con_28_english">who?</string>
+    <string name="con_29_myanmar">ဘာကြောင့်လဲ?</string>
+    <string name="con_29_english">why?</string>
+    <string name="con_30_myanmar">ဘယ်ဟာလဲ?</string>
+    <string name="con_30_english">which?</string>
+    <string name="con_31_myanmar">ဘာလဲ?</string>
+    <string name="con_31_english">what?</string>
+    <string name="con_32_myanmar">...ရှိလား?</string>
+    <string name="con_32_english">Do you have ...?</string>
+    <string name="con_33_myanmar">ဘယ်လို?</string>
+    <string name="con_33_english">How?</string>
+    <string name="con_34_myanmar">ဘယ်လောက်များများ?</string>
+    <string name="con_34_english">How many?</string>
+    <string name="con_35_myanmar">ဗိုက်ဆာတယ်</string>
+    <string name="con_35_english">I am hungry.</string>
+    <string name="con_36_myanmar">မင်းဗိုက်ဆာလား?</string>
+    <string name="con_36_english">Are you hungry?</string>
+    <string name="con_37_myanmar">ဘာစားကြမလဲ?</string>
+    <string name="con_37_english">What shall we eat?</string>
+    <string name="con_38_myanmar">စားကောင်းလား?</string>
+    <string name="con_38_english">How was the food?</string>
+    <string name="con_39_myanmar">အရသာရှိလား?</string>
+    <string name="con_39_english">Delicious?</string>
+    <string name="con_40_myanmar">မဆိုးပါဘူး</string>
+    <string name="con_40_english">It was not bad.</string>
+    <string name="con_41_myanmar">သိပ်ကောင်းပါတယ်</string>
+    <string name="con_41_english">It was very good!</string>
+    <string name="con_42_myanmar">စားပြီးပြီလား</string>
+    <string name="con_42_english">eaten already?</string>
+    <string name="con_43_myanmar">ခုထိမစားရသေးဘူး။</string>
+    <string name="con_43_english">I haven\'t eaten yet. </string>
+    <string name="con_44_myanmar">အင်း စားပြီးပြီ။</string>
+    <string name="con_44_english">(Yes), eaten already. </string>
+    <!--/general conversation-->
+    <!--Direction-->
+    <string name="dir_1_myanmar">... ကိုသွားချင်တယ်။</string>
+    <string name="dir_1_english">I want to go...</string>
+    <string name="dir_2_myanmar">... ဘယ်နေရာမှာလဲ?</string>
+    <string name="dir_2_english"> Where is...?</string>
+    <string name="dir_3_myanmar">ဘယ်ဘက်ချိုး</string>
+    <string name="dir_3_english"> Turn left</string>
+    <string name="dir_4_myanmar">ညာဘက်ချိုး</string>
+    <string name="dir_4_english">Turn right</string>
+    <string name="dir_5_myanmar">ရှေ့တည့်တည့်သွားပါ။</string>
+    <string name="dir_5_english">Straight ahead</string>
+    <string name="dir_6_myanmar">ဒီမှာရပ်ပါ။</string>
+    <string name="dir_6_english">Stop here</string>
+    <string name="dir_7_myanmar">ဖြည်းဖြည်း</string>
+    <string name="dir_7_english">Slow down</string>
+    <string name="dir_8_myanmar">သတိထားပါ။</string>
+    <string name="dir_8_english">Be careful</string>
+    <string name="dir_9_myanmar">သတိထားပါ။ ဖြည်းဖြည်းမောင်းပါ။</string>
+    <string name="dir_9_english">Be careful, don\'t drive too fast</string>
+    <string name="dir_10_myanmar">ပြန်လှည့်</string>
+    <string name="dir_10_english">Turn back</string>
+    <string name="dir_11_myanmar">ဘယ်လောက်ကျပါသလဲ?</string>
+    <string name="dir_11_english">How much do I owe you?</string>
+    <string name="dir_12_myanmar">ပြန်မအမ်းပါနဲ့တော့</string>
+    <string name="dir_12_english">Keep the change</string>
+    <string name="dir_13_myanmar">ဘယ်လမ်းကသွားရမလဲ?</string>
+    <string name="dir_13_english">Which way?</string>
+    <string name="dir_14_myanmar">ဘယ်လောက်ဝေးသေးလဲ?</string>
+    <string name="dir_14_english">How Far?</string>
+    <!--/Direction-->
+    <!--place-->
+    <string name="place_1_myanmar">လေဆိပ်</string>
+    <string name="place_1_english">Airport</string>
+    <string name="place_2_myanmar">bus ကားမှတ်တိုင်</string>
+    <string name="place_2_english"> Bus Stop</string>
+    <string name="place_3_myanmar">ဘူတာရုံ</string>
+    <string name="place_3_english">Railway Station</string>
+    <string name="place_4_myanmar">ဟိုတယ်</string>
+    <string name="place_4_english">Hotel</string>
+    <string name="place_5_myanmar">သံရုံး</string>
+    <string name="place_5_english">Embassy</string>
+    <string name="place_6_myanmar">ဆေးရုံ</string>
+    <string name="place_6_english">Hospital</string>
+    <string name="place_7_myanmar">ဆေးခန်း</string>
+    <string name="place_7_english">Clinic</string>
+    <string name="place_8_myanmar">ရဲစခန်း</string>
+    <string name="place_8_english">Police Station</string>
+    <string name="place_9_myanmar">စာတိုက်</string>
+    <string name="place_9_english">Post Office</string>
+    <string name="place_10_myanmar">ဈေး</string>
+    <string name="place_10_english">Market</string>
+    <string name="place_11_myanmar">သင်္ဘောဆိပ်</string>
+    <string name="place_11_english">River Boat jetty</string>
+    <string name="place_12_myanmar">ဧည့်ရိပ်သာ</string>
+    <string name="place_12_english">Guest house</string>
+    <string name="place_13_myanmar">စားသောက်ဆိုင်</string>
+    <string name="place_13_english">Restaurant</string>
+    <string name="place_14_myanmar">ဘုရား</string>
+    <string name="place_14_english">Pagoda</string>
+    <!--/place-->
+
+    <!--body parts-->
+    <string name="eye_myanmar">မျက်လုံး</string>
+    <string name="eye_default">eye</string>
+
+    <string name="nose_myanmar">နှာခေါင်း</string>
+    <string name="nose_default">nose</string>
+
+    <string name="mouth_myanmar">ပါးစပ်</string>
+    <string name="mouth_default">mouth</string>
+
+    <string name="ear_myanmar">နား</string>
+    <string name="ear_default">ear</string>
+
+    <string name="cheek_myanmar">ပါး</string>
+    <string name="cheek_default">cheek</string>
+
+    <string name="chin_myanmar">မေးစေ့</string>
+    <string name="chin_default">chin</string>
+
+    <string name="eyebrow_myanmar">မျက်ခုံး</string>
+    <string name="eyebrow_default">eyebrow</string>
+
+    <string name="eyelid_myanmar">မျက်ခွံ</string>
+    <string name="eyelid_default">eyelid</string>
+
+    <string name="eyelash_myanmar">မျက်တောင်မွှေး</string>
+    <string name="eyelash_default">eyelash</string>
+
+    <string name="lips_myanmar">နှုတ်ခမ်း</string>
+    <string name="lips_default">lips</string>
+
+    <string name="fingers_myanmar">လက်ချောင်းများ</string>
+    <string name="fingers_default">fingers</string>
+
+    <string name="palm_myanmar">လက်ဝါး</string>
+    <string name="palm_default">palm</string>
+
+    <string name="wrist_myanmar">လက်ကောက်ဝတ်</string>
+    <string name="wrist_default">wrist</string>
+
+    <string name="forearm_myanmar">လက်ဖျံ</string>
+    <string name="forearm_default">forearm</string>
+
+    <string name="elbow_myanmar">တတောင်</string>
+    <string name="elbow_default">elbow</string>
+
+    <string name="upperarm_myanmar">အထက်လက်မောင်း</string>
+    <string name="upperarm_default">upper arm</string>
+
+    <string name="shoulder_myanmar">ပခုံး</string>
+    <string name="shoulder_default">shoulder</string>
+
+    <string name="thumb_myanmar">လက်မ</string>
+    <string name="thumb_default">thumb</string>
+
+    <string name="hand_myanmar">လက်</string>
+    <string name="hand_default">hand</string>
+
+    <string name="index_finger_myanmar">လက်ညှိုး</string>
+    <string name="index_finger_default">index finger</string>
+
+    <string name="ring_finger_myanmar">လက်သန်းကြွယ်</string>
+    <string name="ring_finger_default">ring finger</string>
+
+    <string name="knuckle_myanmar">လက်ခေါက်ဆစ်</string>
+    <string name="knuckle_default">knuckle</string>
+
+    <string name="knee_myanmar">ဒူးခေါင်း</string>
+    <string name="knee_default">knee</string>
+
+    <string name="leg_myanmar">ခြေထောက်</string>
+    <string name="leg_default">leg</string>
+
+    <string name="shin_myanmar">ညို့သကြီး</string>
+    <string name="shin_default">shin</string>
+
+    <string name="ankle_myanmar">ခြေမျက်စိ</string>
+    <string name="ankle_default">ankle</string>
+
+    <string name="heel_myanmar">ခြေဖနောင့်</string>
+    <string name="heel_default">heel</string>
+
+    <string name="toe_myanmar">ခြေချောင်း</string>
+    <string name="toe_default">toe</string>
+
+    <string name="heart_myanmar">နှလုံး</string>
+    <string name="heart_default">heart</string>
+
+    <string name="lungs_myanmar">အဆုတ်</string>
+    <string name="lungs_default">lungs</string>
+
+    <string name="veins_myanmar">သွေးကြောများ</string>
+    <string name="veins_default">veins</string>
+
+    <string name="brain_myanmar">ဦးနှောက်</string>
+    <string name="brain_default">brain</string>
+
+    <string name="throat_myanmar">လည်ချောင်း</string>
+    <string name="throat_default">throat</string>
+
+    <string name="liver_myanmar">အသည်း</string>
+    <string name="liver_default">liver</string>
+
+    <string name="stomach_myanmar">အစာအိမ်</string>
+    <string name="stomach_default">stomach</string>
+
+    <string name="kidneys_myanmar">ကျောက်ကပ်</string>
+    <string name="kidneys_default">kidneys</string>
+
+    <string name="skeleton_myanmar">အရိုးစု</string>
+    <string name="skeleton_default">skeleton</string>
+
+    <string name="ribs_myanmar">နံရိုးများ</string>
+    <string name="ribs_default">ribs</string>
+
+    <string name="bones_myanmar">အရိုးများ</string>
+    <string name="bones_default">bones</string>
+
+    <string name="skin_myanmar">အရေပြား</string>
+    <string name="skin_default">skin</string>
+
+    <string name="neck_myanmar">လည်ပင်း</string>
+    <string name="neck_default">neck</string>
+
+    <string name="tongue_myanmar">လျှာ</string>
+    <string name="tongue_default">tongue</string>
+
+    <string name="wrinkles_myanmar">အရေးအကြောင်းတွေ</string>
+    <string name="wrinkles_default">wrinkles</string>
+
+    <!--/body parts-->
+
+    <!--fruit-->
+    <string name="apple_myanmar">ပန်းသီး</string>
+    <string name="apple_default">apple</string>
+
+    <string name="avocado_myanmar">ထောပတ်သီး</string>
+    <string name="avocado_default">avocado</string>
+
+    <string name="banana_myanmar">ငှက်ပျောသီး</string>
+    <string name="banana_default">banana</string>
+
+    <string name="coconut_myanmar">အုန်းသီး</string>
+    <string name="coconut_default">coconut</string>
+
+    <string name="grape_myanmar">စပျစ်သီး</string>
+    <string name="grape_default">grape</string>
+
+    <string name="mango_myanmar">သရက်သီး</string>
+    <string name="mango_default">mango</string>
+
+    <string name="orange_myanmar">လိမ္မော်သီး</string>
+    <string name="orange_default">orange</string>
+
+    <string name="papaya_myanmar">သင်္ဘော သီး</string>
+    <string name="papaya_default">papaya</string>
+
+    <string name="peach_myanmar">မက်မွန်သီး</string>
+    <string name="peach_default">peach</string>
+
+    <string name="pineapple_myanmar">နာနတ်သီး</string>
+    <string name="pineapple_default">pineapple</string>
+
+    <string name="watermelon_myanmar">ဖရဲသီး</string>
+    <string name="watermelon_default">watermelon</string>
+
+    <!--/fruit-->
+
+    <!--vegetable-->
+    <string name="cabbage_myanmar">ဂေါ်ဖီထုပ်</string>
+    <string name="cabbage_default">cabbage</string>
+
+    <string name="carrot_myanmar">မုန်လာဥနီ</string>
+    <string name="carrot_default">carrot</string>
+
+    <string name="cauliflower_myanmar">ပန်းဂေါ်ဖီ</string>
+    <string name="cauliflower_default">cauliflower</string>
+
+    <string name="cucumber_myanmar">သခွားသီး</string>
+    <string name="cucumber_default">cucumber</string>
+
+    <string name="eggplant_myanmar">ခရမ်းသီး</string>
+    <string name="eggplant_default">eggplant</string>
+
+    <string name="onion_myanmar">ကြက်သွန်နီ</string>
+    <string name="onion_default">onion</string>
+
+    <string name="garlic_myanmar">ကြက်သွန်ဖြူ</string>
+    <string name="garlic_default">garlic</string>
+
+    <string name="pea_myanmar">ပဲ</string>
+    <string name="pea_default">pea</string>
+
+    <string name="tomato_myanmar">ခရမ်းချဥ်သီး</string>
+    <string name="tomato_default">tomato</string>
+
+    <!--/vegetable-->
+
+    <!--Time-->
+    <string name="one_am_myanmar">မနက်တစ်နာရီ</string>
+    <string name="one_am_default">01:00 AM</string>
+
+    <string name="two_am_myanmar">မနက်နှစ်နာရီ</string>
+    <string name="two_am_default">02:00 AM</string>
+
+    <string name="three_am_myanmar">မနက်သုံးနာရီ</string>
+    <string name="three_am_default">03:00 AM</string>
+
+    <string name="four_am_myanmar">မနက်လေးနာရီ</string>
+    <string name="four_am_default">04:00 AM</string>
+
+    <string name="five_am_myanmar">မနက်ငါးနာရီ</string>
+    <string name="five_am_default">05:00 AM</string>
+
+    <string name="six_am_myanmar">မနက်ခြောက်နာရီ</string>
+    <string name="six_am_default">06:00 AM</string>
+
+    <string name="seven_am_myanmar">မနက်ခုနစ်နာရီ</string>
+    <string name="seven_am_default">07:00 AM</string>
+
+    <string name="eight_am_myanmar">မနက်ရှစ်နာရီ</string>
+    <string name="eight_am_default">08:00 AM</string>
+
+    <string name="nine_am_myanmar">မနက်ကိုးနာရီ</string>
+    <string name="nine_am_default">09:00 AM</string>
+
+    <string name="ten_am_myanmar">မနက်ဆယ်နာရီ</string>
+    <string name="ten_am_default">10:00 AM</string>
+
+    <string name="eleven_am_myanmar">မနက်ဆယ့်တစ်နာရီ</string>
+    <string name="eleven_am_default">11:00 AM</string>
+
+    <string name="twelve_am_myanmar">မနက်ဆယ့်နှစ်နာရီ</string>
+    <string name="twelve_am_default">12:00 AM</string>
+
+    <string name="one_pm_myanmar">နေ့လည်တစ်နာရီ</string>
+    <string name="one_pm_default">01:00 PM</string>
+
+    <string name="two_pm_myanmar">နေ့လည်နှစ်နာရီ</string>
+    <string name="two_pm_default">02:00 PM</string>
+
+    <string name="three_pm_myanmar">နေ့လည်သုံးနာရီ</string>
+    <string name="three_pm_default">03:00 PM</string>
+
+    <string name="four_pm_myanmar">နေ့လည်လေးနာရီ</string>
+    <string name="four_pm_default">04:00 PM</string>
+
+    <string name="five_pm_myanmar">ညနေငါးနာရီ</string>
+    <string name="five_pm_default">05:00 PM</string>
+
+    <string name="six_pm_myanmar">ညနေခြောက်နာရီ</string>
+    <string name="six_pm_default">06:00 PM</string>
+
+    <string name="seven_pm_myanmar">ညခုနစ်နာရီ</string>
+    <string name="seven_pm_default">07:00 PM</string>
+
+    <string name="eight_pm_myanmar">ညရှစ်နာရီ</string>
+    <string name="eight_pm_default">08:00 PM</string>
+
+    <string name="nine_pm_myanmar">ညကိုးနာရီ</string>
+    <string name="nine_pm_default">09:00 PM</string>
+
+    <string name="ten_pm_myanmar">ညဆယ်နာရီ</string>
+    <string name="ten_pm_default">10:00 PM</string>
+
+    <string name="eleven_pm_myanmar">ညဆယ့်တစ်နာရီ</string>
+    <string name="eleven_pm_default">11:00 PM</string>
+
+    <string name="twelve_pm_myanmar">ညဆယ့်နှစ်နာရီ</string>
+    <string name="twelve_pm_default">12:00 PM</string>
+    <!--/Time-->
+</resources>
+
