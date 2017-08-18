@@ -25,5 +25,5 @@ This is a simple Android Project to listen Myanmar pronunciation when each Engli
 https://classroom.udacity.com
 
 # Screeenshots
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+(https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
