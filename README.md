@@ -1,6 +1,12 @@
 # Myanmarese - Myanmar pronunciation that equals to English vocabularies and sentences
 This is a simple Android Project to listen Myanmar pronunciation when each English vocabulary and sentence are clicked.
 
+# Screeenshots
+<img src="https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20891353_1058241990977364_785232335_n.png"/>
+<img src="https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20916834_1058242004310696_1479579398_n.png"/>
+<img src="https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20937994_1058241997644030_1413013065_n.png"/>
+<img src="https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20939106_1058242007644029_492640078_n.png"/>
+
 # Library
 <ul>
   <li>Android Support Library (cardview, appcompat, design, mediarouter)</li>
@@ -24,10 +30,5 @@ This is a simple Android Project to listen Myanmar pronunciation when each Engli
 # Credit
 https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
 
-# Screeenshots
-<img src="https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20891353_1058241990977364_785232335_n.png"/>
-<img src="https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20916834_1058242004310696_1479579398_n.png"/>
-<img src="https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20937994_1058241997644030_1413013065_n.png"/>
-<img src="https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20939106_1058242007644029_492640078_n.png"/>
 
 
