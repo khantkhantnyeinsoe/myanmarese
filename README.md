@@ -9,9 +9,9 @@ This is a simple Android Project to listen Myanmar pronunciation when each Engli
 
 ## Library
 - Android Support Library (cardview, appcompat, design, mediarouter)
-- [Recycler View] (https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
-- [Card View] (https://developer.android.com/training/material/lists-cards.html)
-- [Card View] (https://guides.codepath.com/android/sliding-tabs-with-pagerslidingtabstrip)
+- [Recycler View](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
+- [Card View](https://developer.android.com/training/material/lists-cards.html)
+- [Tab View](https://guides.codepath.com/android/sliding-tabs-with-pagerslidingtabstrip)
 
 ## Credit
 https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
