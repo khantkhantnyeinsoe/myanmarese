@@ -8,24 +8,10 @@ This is a simple Android Project to listen Myanmar pronunciation when each Engli
 ![Phrases](https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20939106_1058242007644029_492640078_n.png "Phrases")
 
 ## Library
-<ul>
-  <li>Android Support Library (cardview, appcompat, design, mediarouter)</li>
-  <li>
-    <a target="_blank" href="https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html">
-      Recycler View
-    </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://developer.android.com/training/material/lists-cards.html">
-      Card View
-    </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://guides.codepath.com/android/sliding-tabs-with-pagerslidingtabstrip">
-      Tab View
-    </a>
-  </li>
-</ul>
+- Android Support Library (cardview, appcompat, design, mediarouter)
+- [Recycler View] (https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
+- [Card View] (https://developer.android.com/training/material/lists-cards.html)
+- [Card View] (https://guides.codepath.com/android/sliding-tabs-with-pagerslidingtabstrip)
 
 ## Credit
 https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
