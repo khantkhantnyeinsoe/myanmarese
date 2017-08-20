@@ -6,7 +6,6 @@ This is a simple Android Project to listen Myanmar pronunciation when each Engli
 ![Vegetable](https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20916834_1058242004310696_1479579398_n.png "Vegetable")
 ![Body parts](https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20937994_1058241997644030_1413013065_n.png "Body parts")
 ![Phrases](https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20939106_1058242007644029_492640078_n.png "Phrases")
-![Sentences](https://github.com/khantkhantnyeinsoe/myanmarese/blob/master/20967775_1059396824195214_1154649247_o.png "Sentences")
 
 ## Library
 - Android Support Library (cardview, appcompat, design, mediarouter)
